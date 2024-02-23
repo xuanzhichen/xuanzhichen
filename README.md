@@ -10,13 +10,19 @@ DMIR lab has been collaboratively developing the python package [causal-learn](h
 See more at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
 
 #### ⚡ Coding Ideas
-I intend to work for the Current-and-Future Thriving Communities of
+I intend to work for programming that
+can better process and analyze the tremendous volume of (brain) data,
+making my modest efforts to the current-and-future thriving communities of brain science.
+For my future research and work, my potential interest might lie in:
+* Build the computational platforms on targeted purpose for brain researchers to deal with brain data such as EEG data and fMRI data; 
+* Provide easy-to-use APIs which encapsulate mathematical and statistical approaches for brain analysis;
+* Discovery specific 
 
 #### 💬 Reach Out
 Email: xuanzhichen.42@gmail.com
 
 #### 👯 Acknowledgement
-Thanks to Yue Zhao [@yzhao062](https://github.com/yzhao062) for starting ideas and icon displays in this file.
+Thanks to Yue Zhao [@yzhao062](https://github.com/yzhao062) for starting ideas and icon displays in this profile.
 
 <!--
 Here are some ideas to get you started:
