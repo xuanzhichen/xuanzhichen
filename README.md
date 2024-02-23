@@ -22,7 +22,7 @@ For my future research and work, my potential interest might lie in:
 Email: xuanzhichen.42@gmail.com
 
 #### 👯 Acknowledgement
-Thanks to Yue Zhao [@yzhao062](https://github.com/yzhao062) for starting ideas and icon displays in this profile.
+Thanks to Yue Zhao [@yzhao062]([https://github.com/yzhao062](https://viterbi-web.usc.edu/~yzhao010/)) for starting ideas and icon displays in this profile.
 
 <!--
 Here are some ideas to get you started:
