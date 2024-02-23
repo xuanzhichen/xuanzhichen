@@ -14,7 +14,7 @@ I intend to work for programming that
 can better process and analyze the tremendous volume of (brain) data,
 making my modest efforts to the current-and-future thriving communities of brain science.
 For my future research and work, my potential interest might lie in:
-* Building the computational platforms on targeted purpose for brain researchers to deal with brain data such as EEG data and fMRI data; 
+* Building computational platforms on targeted purpose for brain researchers to deal with brain data such as EEG data and fMRI data; 
 * Providing easy-to-use APIs which encapsulate mathematical and statistical approaches for brain analysis;
 * Assisting intelligent agents in discovering specific patterns from raw data corresponding to the moral of brain cognition.
 
