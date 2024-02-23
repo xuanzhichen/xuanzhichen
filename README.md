@@ -1,5 +1,11 @@
-### 😄 Hello! I am [Xuanzhi Chen (陈炫志 in Chinese)](https://xuanzhichen.github.io) 👋
+### 😄 Best Wishes to the Coding Efforts as for the Current-and-Future Thriving Communities of Brain Science, Causation, and NeuroAI
+Hello! I am [Xuanzhi Chen (陈炫志 in Chinese)](https://xuanzhichen.github.io) 👋
 
+#### 📫 Reach Out
+Email: xuanzhichen.42@gmail.com
+
+#### 👯 Acknowledgement
+Thanks to Yue Zhao [@yzhao062](https://github.com/yzhao062) for starting ideas and icon displays in this file.
 <!--
 Here are some ideas to get you started:
 
