@@ -14,7 +14,7 @@ I intend to work for programming that
 can better process and analyze the tremendous volume of (brain) data,
 making my modest efforts to the current-and-future thriving communities of (brain) science.
 
-> “通过代码程序更好地 "理解"（脑电）数据是我的编程理念所在, 希望为当下乃至未来的（脑）科学社区贡献绵薄之力。”
+> “通过代码程序更好地 ‘理解’（脑电）数据是我的编程理念所在, 希望为当下乃至未来的（脑）科学社区贡献绵薄之力。”
 
 For my future research and work, my potential interest might lie in:
 * Building computational platforms on targeted purpose for brain researchers to deal with brain data such as EEG data and fMRI data; 
