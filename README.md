@@ -17,7 +17,7 @@ making my modest efforts to the current-and-future thriving communities of (brai
 > “通过代码程序更好地 ‘理解’（脑电）数据是我的编程理念所在, 希望为当下乃至未来的（脑）科学社区贡献绵薄之力。”
 
 For my future research and work, my potential interest might lie in:
-* Building computational platforms on targeted purposes for researchers to deal with brain data such as EEG data and fMRI data; 
+* Building targeted computational platforms for researchers to deal with brain data such as EEG data and fMRI data; 
 * Providing easy-to-use APIs which encapsulate mathematical and statistical approaches for brain analysis;
 * Assisting intelligent agents in discovering specific patterns from raw data corresponding to the moral of neural cognition.
 
