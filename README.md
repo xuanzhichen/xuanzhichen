@@ -7,7 +7,7 @@ Currently, I am a senior student seeking for the MS or PhD brain science program
 I will receive a BS in computer science this summer from GDUT (Guangdong University of Technology, China),
 where I have experienced a research internship at the DMIR lab (Data Mining and Information Retrieval Laboratory)
 working with [Prof. Ruichu Cai](https://ruichucai.github.io/).
-DMIR lab has been collaboratively developing the python package [causal-learn](https://github.com/py-why/causal-learn) (for causal discovery) by CMU.
+DMIR lab has been collaboratively developing [causal-learn](https://github.com/py-why/causal-learn) (Python package for causal discovery) by CMU.
 
 See more at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
 
