@@ -4,18 +4,18 @@ Hello! I am Xuanzhi Chen (陈炫志 in Chinese) 👋
 See more at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
 
 #### 🔭 Intro
-In the spectrum of brain science, my strong interest and passions involve Neurotechnology (e.g. brain-computer-interface, brain-controlled robotics) and Neuroscience (e.g. computational cognitive neuroscien, neuroAI).
+In the spectrum of brain science, my strong interest and passions involve **Neurotechnology** (e.g. brain-computer-interface, brain-controlled robotics) and **Neuroscience** (e.g. computational cognitive neuroscien, neuroAI).
 
 Currently, I am an undergraduate student who are seeking for engaging a MS or PhD program as to neuroscience in fall, 2025.
 I received a BS in computer science this summer from GDUT (Guangdong University of Technology, Guangzhou, China),
 where I have experienced two-year a research internship at the DMIR lab (Data Mining and Information Retrieval Laboratory)
 that focus on the interface between Causal Inference and AI.
 
-The DMIR lab has been collaboratively developing the Python package [causal-learn](https://github.com/py-why/causal-learn) initiated by CMU, 
-which provides implementations of out-of-the-box causal discovery algorithms.
+*The DMIR lab has been collaboratively developing the Python package [causal-learn](https://github.com/py-why/causal-learn) initiated by CMU, 
+which provides implementations of out-of-the-box causal discovery algorithms.*
 
 #### ⚡ Coding Ideas
-I wish to work for the programming that advances the ways about how we process, analyze, and leverage tremendous volumes of data or signals given by our brains,
+I wish to work for the programming that **advances the ways about how we process, analyze, and leverage tremendous volumes of data or signals given by our brains**,
 contributing my modest efforts to the current-and-future thriving communities of brain science.
 
 For future research and long-term career, my coding ideation might have involved:
