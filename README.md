@@ -11,7 +11,8 @@ I received a BS in computer science this summer from GDUT (Guangdong University 
 where I have experienced two-year a research internship at the DMIR lab (Data Mining and Information Retrieval Laboratory)
 that focus on the interface between Causal Inference and AI.
 
-The DMIR lab has been collaboratively developing the Python package [causal-learn](https://github.com/py-why/causal-learn) (implementations of causal discovery algorithms) initiated by CMU.
+The DMIR lab has been collaboratively developing the Python package [causal-learn](https://github.com/py-why/causal-learn) initiated by CMU, 
+which provides implementations of out-of-the-box causal discovery algorithms.
 
 #### ⚡ Coding Ideas
 I wish to work for the programming that advances the ways about how we process, analyze, and leverage tremendous volumes of data or signals given by our brains,
