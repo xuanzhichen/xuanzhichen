@@ -1,27 +1,15 @@
-### 🌱 Best Wishes to the Coding Efforts as to Brain Science
-Hello! I am Xuanzhi Chen (陈炫志 in Chinese) 👋
-
-See more at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
+### Hello👋 I am Xuanzhi CHEN (or 陈炫志 in Chinese) 
+See more info at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
 
 #### 🔭 Intro
-In the spectrum of brain science, my strong interest and passions involve **Neurotechnology** (e.g. brain-computer-interface, brain-controlled robotics, neuromorphic computing) and **Neuroscience** (e.g. computational cognitive neuroscience, neuroAI).
+I am an undergraduate student who is currently seeking to engage in a 2025-fall Master graduate program relating to General Computer Science.
 
-Currently, I am an undergraduate student who are seeking for engaging a MS or PhD program as to neuroscience in fall, 2025.
-I received a BS in computer science this summer from GDUT (Guangdong University of Technology, Guangzhou, China),
-where I have experienced two-year a research internship at the DMIR lab (Data Mining and Information Retrieval Laboratory)
-that focus on the interface between Causal Inference and AI.
+#### 🌱 Coding Interest
+In the intersection of computer science and applied math (applied statistics), my interest involves a couple of topics: **machine intelligence**, **computational data analysis**, and **information technology**. My envision at its best — engineering computational and mathematical solutions to address industrial problems (e.g. in relation of **commercial and financial** areas) motivates me to hone skills in programming, focusing on design of learning-algorithms, utility of available data, and/or efficacy of digital systems.
 
-*The DMIR lab has been collaboratively developing the Python package [causal-learn](https://github.com/py-why/causal-learn) initiated by CMU, 
-which provides implementations of out-of-the-box causal discovery algorithms.*
-
-#### ⚡ Coding Ideas
-I wish to work for the programming that **advances the ways about how we process, analyze, and leverage tremendous volumes of data or signals given by our brains**,
-contributing my modest efforts to the current-and-future thriving communities of brain science.
-
-For my career in solving engineering problems and digging in research interest, my coding ideation in relation of brain science might have involved:
-* Building integrated computational platforms (framework) for processing variant types of brain data or signals; 
-* Providing the APIs for the brain analysis that encapsulates AI-propelled and mathematical-based approaches;  
-* Strengthening effective human-machine interactions, highly controllable intelligent agents, and biologically plausible computational architectures.
+#### ⚡ Coding Experience (promotion)
+- The DMIR lab (Data Mining and Information Retrieval) at GDUT (China) has collaboratively developed the Python package [causal-learn](https://github.com/py-why/causal-learn) (Tetrad Program) initiated by CMU, which provides **implementations of out-of-the-box causal discovery algorithms**.
+- I created [CADIMULC](https://github.com/xuanzhichen/cadimulc?tab=readme-ov-file) during my research internship working at the DMIR lab, offering **implementations of causal-inspired algorithms proposed by the DMIR lab** ([IEEE TNNLS, 2021](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Causal+discovery+in+linear+non-gaussian+acyclic+model+with+multiple+latent+confounders&btnG=#)), along with [an instructive demo](https://xuanzhichen.github.io/cadimulc/) to help beginners interested in causal science get **a quick grasp as to the process of Causal Discovery** (e.g. how to generate data / apply causal inference / evaluate results).
 
 #### 💬 Reach Out
 Email: xuanzhichen.42@gmail.com
