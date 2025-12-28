@@ -1,4 +1,7 @@
-### Hello👋 I am Xuanzhi CHEN (or 陈炫志 in Chinese) 
+### Hello👋 I am Shane (Xuanzhi) Chen (陈炫志) 
+My github profile is currently under maintenance :)
+
+<!--
 See more info at my personal website: [xuanzhi's homepage](https://xuanzhichen.github.io)
 
 #### 🔭 Intro
@@ -16,6 +19,7 @@ Email: xuanzhichen.42@gmail.com
 
 #### 👯 Acknowledgement
 Thanks to 赵越 ([@yzhao062](https://viterbi-web.usc.edu/~yzhao010/)) for getting start the ideas, and for the icons displayed in this profile.
+-->
 
 <!--
 Here are some ideas to get you started:
